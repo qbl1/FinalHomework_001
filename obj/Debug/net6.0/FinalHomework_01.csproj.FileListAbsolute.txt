@@ -1,0 +1,15 @@
+/home/john/Learning/FinalHomework_01/bin/Debug/net6.0/FinalHomework_01
+/home/john/Learning/FinalHomework_01/bin/Debug/net6.0/FinalHomework_01.deps.json
+/home/john/Learning/FinalHomework_01/bin/Debug/net6.0/FinalHomework_01.runtimeconfig.json
+/home/john/Learning/FinalHomework_01/bin/Debug/net6.0/FinalHomework_01.dll
+/home/john/Learning/FinalHomework_01/bin/Debug/net6.0/ref/FinalHomework_01.dll
+/home/john/Learning/FinalHomework_01/bin/Debug/net6.0/FinalHomework_01.pdb
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.csproj.AssemblyReference.cache
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.GeneratedMSBuildEditorConfig.editorconfig
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.AssemblyInfoInputs.cache
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.AssemblyInfo.cs
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.csproj.CoreCompileInputs.cache
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.dll
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/ref/FinalHomework_01.dll
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.pdb
+/home/john/Learning/FinalHomework_01/obj/Debug/net6.0/FinalHomework_01.genruntimeconfig.cache
